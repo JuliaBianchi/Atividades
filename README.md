@@ -1,2 +1,3 @@
-# Exercicios
- Atividades feitas em python
+# Exercícios
+
+ Atividades feitas em python.
